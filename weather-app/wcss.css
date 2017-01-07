@@ -1,0 +1,23 @@
+html{
+background-image:url("clouds.jpg");
+background-size:cover;
+}
+
+h1 h2{
+    text-align: center;
+    color:floralwhite;
+}
+
+.row{
+    font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;
+    width: 600px;
+    padding: 40px;
+    border: 2px solid gray;
+    margin: 100px 100px 150px 250px;
+    text-align:left;
+    color:white;
+    background-color:seagreen; 
+}
+.stl{
+    color:white;
+}
